@@ -1,6 +1,6 @@
 # 📝 listaTarefas1MaisPraTi
 
-Lista de tarefas nº 1 do curso Dev. Full-Stack Jr. 2025/1 - +praTI
+Lista de tarefas nº 1 - Dev. Full-Stack Jr. 2025/1 - +praTI
 
 ---
 
@@ -8,10 +8,10 @@ Lista de tarefas nº 1 do curso Dev. Full-Stack Jr. 2025/1 - +praTI
 
 Este repositório reúne os exercícios do Módulo 1 do curso Dev. Full-Stack Jr. 2025/1 da +praTI.
 
-Neste repositório foram desenvolvidas as soluções dos exercícios de lógica de programação com JavaScript, focando no desenvolvimento de habilidades essenciais na jornada como desenvolvedora.
+Neste repositório foram desenvolvidas as soluções dos exercícios de lógica de programação com JavaScript, focando no entendimento de conceitos edesenvolvimento de habilidades essenciais como DEV.
 
 ---
-## 💻 **Organização dos exrcícios**
+## 💻 **Organização dos exercícios**
 Cada exercício foi resolvido com uma função. Cada tarefa está numerada de acordo com a lista anexa, sendo que o número do exercício está escrito como comentário na linha acima da função.
 
 ## 💻 **Como executar os exercícios**
@@ -21,7 +21,7 @@ Para executar os códigos, siga os seguintes passos:
 ### **Instale o Node.js**
 
 O ambiente de execução Node.js permite executar JavaScript fora do navegador. Faça o download em:  
-https://nodejs.org/en/download
+https://nodejs.org/pt/download
 
 Escolha a versão para seu sistema operacional e efetue a instalação.
 
@@ -62,20 +62,15 @@ e escreve-los em ordem crescente.
 9. Implemente um programa que exibe uma contagem regressiva de 10 até 1 no console
 utilizando um loop for.
 10. Escreva um algoritmo para ler um número inteiro e escrevê-lo na tela 10 vezes.
-
 11. Escreva um programa que solicita ao usuário 5 números e calcula a soma total
 utilizando um loop for.
 12. Crie um programa que exibe a tabuada de um número fornecido pelo usuário (de 1 a
-10), utilizando um loop for.
+10) utilizando um loop for.
 13. Fazer um algoritmo para receber números decimais até que o usuário digite 0 e fazer
 a média aritmética desses números.
 14. Crie um programa que calcula o fatorial de um número fornecido pelo usuário
 utilizando um loop for ou while.
 15. Escreva um programa que gera e imprime os primeiros 10 números da sequência de
 Fibonacci utilizando um loop for.
-
-
-
-
 
 
