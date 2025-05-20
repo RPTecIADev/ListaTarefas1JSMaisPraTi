@@ -1,4 +1,4 @@
-# 📝 listaTarefas1MaisPraTi
+# 📝 ListaTarefas1JSMaisPraTi
 
 Lista de tarefas nº 1 - Dev. Full-Stack Jr. 2025/1 - +praTI
 
